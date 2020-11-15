@@ -59,7 +59,7 @@ ACSI/CAIS invite des propositions présentant des recherches empiriques, théori
 <br><br>
 **Les prix ACSI/CAIS pour étudiants et professionnels** : Les propositions de communications provenant soit d’étudiants des cycles supérieurs, soit de professionnels seront prises en considération pour ces prix. Le prix ACSI/CAIS décerné à un étudiant comporte une récompense en argent. Les deux lauréats auront la possibilité de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Pour être considérés pour ces prix, les candidats doivent indiquer dans leur proposition s’ils sont étudiants ou professionnels. Les détails sur ces prix, y compris les lauréats des années précédentes, se trouvent sur le site web de l’ACSI/CAIS : www.cais-acsi.ca/fr/
 <br><br>
-L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité globale. Les propositions seront reçues et évaluées via l’Open Journal System de l’ACSI/CAIS: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. <br><br>
+L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité globale. Les propositions seront reçues et évaluées via l’Open Journal System de l’ACSI/CAIS: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions.
 <br><br>
 Si vous avez des problèmes avec votre soumission au congrès via le système OJS, vous pouvez soumettre par courriel à Robyn Stobbs (stobbs@ualberta.ca) avec “ACSI 2021” comme sujet.
 <br><br>
