@@ -5,7 +5,7 @@ bio: "Robyn Stobbs is an interdisciplinary PhD candidate at the University of Al
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Conference co-chairs
+  - Organisateurs
 ---
 # Bio
 Robyn Stobbs is an interdisciplinary PhD candidate at the University of Alberta in the fields of Human Ecology and Library and Information Studies. She is a graduate research assistant on the Inuvialuit Voices project.
