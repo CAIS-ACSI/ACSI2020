@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
 title = "Program"
-subtitle = "Please click on the titles for more information. A three-page PDF version of the program is available [here](CAIS2020_program.pdf)"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
