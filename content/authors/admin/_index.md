@@ -24,57 +24,58 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
-**49th Annual Conference of the Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI)**
+
+**49e Congrès annuel de l’Association canadienne des sciences de l’information / the Canadian Association for Information Science (ACSI/CAIS)**
 <br>
-**June 7 – 10, 2021**
+**7 au 10 juin 2021**
 <br><br>
-### Call for papers
-The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 49th Annual Conference, June 7 – 10, 2021. CAIS/ACSI is planned to take place fully online, hosted by the University of Alberta in Edmonton. 
+
+### Appel à propositions
+L’Association canadienne des sciences de l’information/The Canadian Association for Information Science (ACSI/CAIS) vous invite à soumettre une proposition pour son 49e congrès annuel qui aura lieu entièrement en ligne du 7 au 10 juin 2021 et qui sera hébergé par l’Université de l’Alberta à Edmonton.
 <br><br>
-Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 
+Les sciences de l’information et la bibliothéconomie constituent un domaine diversifié et relationnel où se rencontrent une multitude de courants de recherche, communautés et cultures. Cependant, la recherche, le savoir, la pédagogie et l’enquête en sciences de l’information sont souvent centrées sur des théories, idées et pratiques déjà bien établies et privilégiées. En cette ère de grands changements au sein de nos communautés, nos cultures et notre société, nos attentes en ce qui a trait à la « normalité » ont été rompues. La situation actuelle nous invite à réexaminer notre travail en recherchant des voix et des connaissances ignorées, sous-citées et émergentes, de même que des méthodologies au pouvoir transformateur, des partenariats et des relations au sein et au-delà de notre domaine. « Relations nordiques » nous appelle à considérer les impacts intergénérationnels de nos travaux en termes de leadership et de pédagogie, ainsi que l’hétérogénéité caractéristique des sciences de l’information qui nous guide vers les idées émergentes, en réseau, rhizomatiques et interreliées nous menant à des lieux et des espaces inattendus et négligés, que ceux-ci soient littéraux ou métaphoriques.Faciliter et prendre soin des relations avec les personnes, idées et non-humains de ces lieux et espaces enchevêtrés, inattendus et négligés contribue à développer un domaine résilient et dynamique en éducation, recherche et pratique.
 <br><br>
-Under our conference theme of “Northern Relations: Connecting the Unexpected and Overlooked to Information Science”, we invite researchers, practitioners, and students in library and information science and cognate fields to consider entangled, emergent, unexpected, intriguing, and novel aspects of scholarship, research, theory, and practice that offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, and communities. 
+Dans le cadre de notre thématique « Relations nordiques : Lier l’inattendu et le négligé en sciences de l’information », nous invitons les chercheurs, les professionnels et les étudiants provenant du domaine de la bibliothéconomie et des sciences de l’information et de domaines apparentés à considérer les aspects enchevêtrés, émergents, inattendus, intrigants et nouveaux de l’apprentissage, la recherche, la théorie et la pratique qui offrent des perspectives diverses et inclusives des données, de l’information, des connaissances, des bibliothèques, de la pédagogie, des espaces, des lieux et des communautés. 
 <br><br>
-Submissions may cover topics including but not necessarily limited to the following:
-- Emergent or overlooked perspectives in library and information research and practices
-- Decolonizing, anti-racist, and critical approaches to pedagogy in LIS
-- Novel or intriguing methodologies, theories, frameworks, or models from within and beyond the field
-- Accountability, responsibility, and taking care of relations in LIS research and practice
-- Connected or networked views of data, information, and knowledge as they are entangled with people, communities, and society
-- Relational, interdisciplinary, and intersectional research, theory, and practice that facilitates equity, diversity, and inclusion
+Les propositions peuvent traiter des sujets suivants, sans nécessairement s’y limiter : 
+- Perspectives émergentes et négligées dans la recherche et la pratique en bibliothéconomie et sciences de l’information
+- Approches antiracistes, critiques et liées à la décolonisation de la pédagogie en bibliothéconomie et sciences de l’information
+- Méthodologies récentes ou singulières, théories, cadres ou modèles provenant ou non du domaine de la bibliothéconomie et des sciences de l’information
+- Imputabilité, responsabilité et prise en charge des relations dans la recherche et la pratique en bibliothéconomie et sciences de l’information
+- Vues connectées ou en réseau des données, de l’information et des connaissances telles qu’elles sont enchevêtrées avec les personnes, les communautés et la société
+- Recherche, théorie et pratiques relationnelles, interdisciplinaires et intersectionnelles facilitant l’équité, la diversité et l’inclusion
 <br>
 
-We invite papers, panels, and poster submissions representing diverse topics and methods related (but not limited) to the above theme. We particularly encourage individuals to submit papers, panels, and posters with further connections to “Northern Relations”; and that emphasize, support, and facilitate equity, diversity, inclusion, intersectionality, truth and reconciliation, and/or decolonization.
+Nous invitons les propositions sous forme d’articles, de panels et d'affiches portant sur divers sujets et méthodes liés (mais non limités) aux thématiques ci-dessus. Nous encourageons particulièrement les participants à soumettre des articles, panels, et affiches portant sur « Relations nordiques » et qui viennent souligner, supporter et faciliter l’équité, la diversité, l’inclusion, l’intersectionnalité, la vérité et la réconciliation, et/ou la décolonisation. 
 
-### Types of proposals
-CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French.
+### Types de propositions
+ACSI/CAIS invite des propositions présentant des recherches empiriques, théoriques ou s’appuyant sur des pratiques. Les propositions peuvent être soumises en anglais ou en français.
 <br><br>
-**Papers**: 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx).
+**Communications** : Présentations orales de 20 minutes de projets achevés ou bien avancés portant sur des sujets publiables dans des revues savantes.  La préférence sera accordée aux propositions qui rendent compte de recherches achevées ou en cours. Des perspectives (théoriques ou appliquées) diverses et innovantes ainsi que des propositions méthodologiques sont les bienvenues. Les propositions doivent être rédigées sous la forme d’un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises). Prière d’utiliser ce [modèle](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx).
 <br><br>
 **Panels**: 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx).
 <br><br>
-**Posters**: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted posters will also be invited to provide a 2-3-minute video overview of their work. Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx).
+**Affiches**: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted posters will also be invited to provide a 2-3-minute video overview of their work. Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx).
 <br><br>
-**Student-to-CAIS/ACSI and Best Paper by a Practitioner Awards**: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca.
+**Les prix ACSI/CAIS pour étudiants et professionnels** : Les propositions de communications provenant soit d’étudiants des cycles supérieurs, soit de professionnels seront prises en considération pour ces prix. Le prix ACSI/CAIS décerné à un étudiant comporte une récompense en argent. Les deux lauréats auront la possibilité de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Pour être considérés pour ces prix, les candidats doivent indiquer dans leur proposition s’ils sont étudiants ou professionnels. Les détails sur ces prix, y compris les lauréats des années précédentes, se trouvent sur le site web de l’ACSI/CAIS : www.cais-acsi.ca/fr/
 <br><br>
-Proposals will be evaluated on theory/methodology, clarity, impact/originality, and overall quality. Proposals will be received and reviewed using the OJS system: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. If you run into issues submitting your paper, poster, or panel through OJS by the submission date, please submit instead by email to Robyn Stobbs (stobbs@ualberta.ca) with “CAIS 2021” as the subject line.
+L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité globale. Les propositions seront reçues et évaluées via l’Open Journal System de l’ACSI/CAIS: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. <br><br>
 <br><br>
-**Student Research Forum**: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other master’s and doctoral students. Students at any stage of their graduate program are invited to submit to the Forum.
+Si vous avez des problèmes avec votre soumission au congrès via le système OJS, vous pouvez soumettre par courriel à Robyn Stobbs (stobbs@ualberta.ca) avec “ACSI 2021” comme sujet.
 <br><br>
-Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
+**Forum de la recherche étudiante**: Nous avons le plaisir d’inviter les étudiants à la maîtrise et au doctorat à participer au forum de recherche étudiante de l’ACSI. L’objectif du forum est de donner aux étudiants l’occasion de présenter et de discuter de leur projet de recherche, de recevoir de la rétroaction de la part de chercheurs expérimentés, et d’établir des liens avec d’autres étudiants. Les étudiants à tout stade de leur programme sont invités à participer au forum doctoral.
 <br><br>
-To participate, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
+Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur un aspect de votre recherche qui sera suivie d’une discussion. Plus de détails vous seront communiqués suite à votre inscription.
 <br><br>
-The submission deadline for all proposals is **January 22, 2021, midnight Pacific Time**.
+Pour participer, veuillez remplir le formulaire d'inscription [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
 <br><br>
-Authors will be notified no later than March 1, 2021. Final versions must be submitted no later than April 30, 2021, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie.
+La date limite pour la soumission des propositions est le **22 janvier 2021 à minuit, heure du pacifique**.
 <br><br>
-Initial submissions should be scrubbed of identifying information for double-blind peer review.
+Les auteurs seront informés au plus tard le **1er mars 2020**. Les versions finales doivent être soumises au plus tard le **30 avril 2020**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science
 <br><br>
-Registration: The conference will be free and open to all, with no registration necessary.
+Inscription : Le congrès sera gratuit et ouvert à tous. Aucune inscription n’est requise. 
 <br><br>
-For further information, please contact the CAIS/ACSI 2021 Conference Co-Chairs:
-<br><br>
+Pour plus d'informations, veuillez contacter les organisateurs de la conférence ACSI/CAIS 2020:<br><br>
 **Tami Oliphant**<br>
 Associate Professor, School of Library and Information Studies<br>
 University of Alberta<br>
