@@ -28,7 +28,7 @@ social:
 **49e Congrès annuel de l’Association canadienne des sciences de l’information / the Canadian Association for Information Science (ACSI/CAIS)**
 <br>
 **7 au 10 juin 2021**
-<br><br>
+<br>
 
 [![button](https://raw.githubusercontent.com/cais-acsi/acsi2021/master/content/submit_button_fr.png)](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions)
 
