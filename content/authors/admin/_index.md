@@ -30,7 +30,7 @@ social:
 **7 au 10 juin 2021**
 <br><br>
 
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+[![button](http://www.acsi2021.ca/submit_button.jpg)](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions)
 
 ### Appel à propositions
 L’Association canadienne des sciences de l’information/The Canadian Association for Information Science (ACSI/CAIS) vous invite à soumettre une proposition pour son 49e congrès annuel qui aura lieu entièrement en ligne du 7 au 10 juin 2021 et qui sera hébergé par l’Université de l’Alberta à Edmonton.
