@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Accueil"
   url = "#about"
   weight = 10
 
@@ -35,10 +35,10 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#  name = "FR"
-#  url = "#"
-#  weight = 65
+[[main]]
+  name = "English"
+  url = "cais2021.netlify.app"
+  weight = 65
 
 #[[main]]
 #  name = "Live Stream"
