@@ -71,9 +71,9 @@ Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur
 <br><br>
 Pour participer, veuillez remplir le formulaire d'inscription [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
 <br><br>
-La date limite pour la soumission des propositions est le **22 janvier 2021 à minuit, heure du pacifique**.
+La date limite pour la soumission des propositions est le ~~22 janvier~~ **2 février 2021 à minuit, heure du Pacifique**.
 <br><br>
-Les auteurs seront informés au plus tard le **1er mars 2020**. Les versions finales doivent être soumises au plus tard le **30 avril 2020**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science
+Les auteurs seront informés au plus tard le ~~1er mars~~ **12 mars 2020**. Les versions finales doivent être soumises au plus tard le ~~30 avril~~ **11 mai 2020**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science
 <br><br>
 Inscription : Le congrès sera gratuit et ouvert à tous. Aucune inscription n’est requise. 
 <br><br>
