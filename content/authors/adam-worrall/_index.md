@@ -5,7 +5,7 @@ bio: ""
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Organisateurs
+  - Conference co-chairs
 ---
 # Bio
 My name is Adam Worrall and I am an Assistant Professor at the University of Alberta School of Library and Information Studies. I earned my PhD from the Florida State University School of Information and also hold an MS in Library and Information Studies from FSU and a BS in Computer Science from the University of Central Florida.
