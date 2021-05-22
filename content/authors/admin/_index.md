@@ -34,10 +34,10 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     School of Library and Information Studies, University of Alberta
 </p>
 
-# Program
+# Programme
 
 <center>Lien Zoom pour l'ensemble des séances: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
-<center>Veuillez noter que les temps affichés sont en <strong>heure avancée des Rocheuses (HAR)</strong></center><br>
+<center>Veuillez noter que les temps affichés sont en <strong>heure avancée des Rocheuses (HAR)</strong></center>
 <center>Une version PDF du programme est disponible <a href="cais2021_program_and_schedule.pdf">ici</a>.</center>
 <table style="width:100%">
   <tr>
