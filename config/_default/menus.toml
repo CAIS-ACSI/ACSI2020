@@ -8,27 +8,20 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#  name = "Program"
-#  url = "#talks"
-#  weight = 30
+[[main]]
+  name = "Programme"
+  url = "#programme"
+  weight = 25
 
-#[[main]]
-#  name = "Topics"
-#  url = "#tags"
-#  weight = 25
-
-#[[main]]
-#  name = "Participants"
-#  url = "#people"
-#  weight = 40
-
+[[main]]
+  name = "Programme détaillé"
+  url = "#talks"
+  weight = 30
 
 [[main]]
   name = "Équipe"
   url = "#chairs"
   weight = 45
-
 
 [[main]]
   name = "Contact"
@@ -36,7 +29,7 @@
   weight = 60
 
 [[main]]
-  name = "English"
+  name = "Anglais"
   url = "https://cais2021.ca"
   weight = 65
 
