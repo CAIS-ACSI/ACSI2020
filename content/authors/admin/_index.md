@@ -219,7 +219,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     </td>
   </tr>
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=2>14h00 - 14h30</td>
   </tr>
   <tr>
