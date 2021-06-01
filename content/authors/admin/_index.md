@@ -242,7 +242,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Jour 4 - mercredi 10 juin</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Jour 4 - jeudi 10 juin</font></strong></td>
   </tr>
   <tr>
     <td rowspan=2>Politiques de l'information</td>
