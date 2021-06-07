@@ -1,6 +1,6 @@
 ---
 title: "Inattendu et négligé : comprendre l'épistémicide en science de l'information"
-event: CAIS2021
+event: ACSI2021
 event_url: 
 
 location: https://zoom.us/j/96815079086
