@@ -245,6 +245,11 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     <td colspan=3 style="font-size:20px"><strong><font>Jour 4 - jeudi 10 juin</font></strong></td>
   </tr>
   <tr>
+    <th>Séance</th>
+    <th>Heure (HAR)</th>
+    <th>Présentation</th>
+  </tr>
+  <tr>
     <td rowspan=2>Politiques de l'information</td>
     <td>9h30 - 10h00</td>
     <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">L'intersection de la recherche sur les requins, de la politique et du public : un portrait bibliométrique et altmétrique</a></strong><br>
@@ -315,7 +320,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <th>Séance</th>
     <th>Heure (HAR)</th>
-    <th>Event</th>
+    <th>Évènement</th>
   </tr>
   <tr>
     <td>Forum</td>
