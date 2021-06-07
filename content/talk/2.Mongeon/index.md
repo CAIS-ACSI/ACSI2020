@@ -1,6 +1,6 @@
 ---
 title: "Une analyse bibliométrique de la recherche liée à la race en bibliothéconomie et sciences de l'information (BSI)"
-event: CAIS2021
+event: ACSI2021
 event_url: 
 
 location: https://zoom.us/j/96815079086

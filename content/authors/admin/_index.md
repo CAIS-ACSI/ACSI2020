@@ -52,7 +52,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td>Conférence d'ouverture</td>
     <td>12h30 - 14h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and overlooked: Understanding epistemicide in information science</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Inattendu et négligé : comprendre l'épistémicide en science de l'information</a></strong><br>
         <i>Beth Patin</i>
     </td>
   </tr>
@@ -63,19 +63,19 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=3>Meilleures articles</td>
     <td>14h30 - 15h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">A bibliometric analysis of race-related research in LIS</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">Une analyse bibliométrique de la recherche sur la race dans le domaine de la bibliothéconomie et des sciences de l'information (BSI)</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
     <td>15h00 - 15h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Reading the silence: Canadian library responses to racial injustice</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Lire le silence : réponses des bibliothèques canadiennes à l'injustice raciale</a></strong><br>
         <i>Amber Matthews</i>
     </td>
   </tr>
   <tr>
     <td>15h30 - 16h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives sur les projets de télémédecine dans les communautés nordiques : leçons apprises pour la conception et l'évaluation participatives décolonisées</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
@@ -90,25 +90,25 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=4>Sérendipité et contemplation</td>
     <td>9h30 - 10h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Contemplative inquiry: A novel research methodology for information science</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Enquête contemplative : une nouvelle méthodologie de recherche pour les sciences de l'information</a></strong><br>
         <i>Hugh Samson</i>
     </td>
   </tr>
   <tr>
     <td>10h00 - 10h30</td>
-      <td><strong><a href="https://www.cais2021.ca/talk/6.Agarwal/">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
+      <td><strong><a href="https://www.cais2021.ca/talk/6.Agarwal/">« Aha ! » La prédisposition des bibliothécaires à la découverte fortuite d'informations sur le lieu de travail</a></strong><br>
         <i>Naresh Kumar Agarwal, Yuan Ho Huang, Sanda Erdelez</i>
     </td>
   </tr>
   <tr>
     <td>10h30 - 11h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">The role of human information behaviour in resilience and recovery</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">Le rôle du comportement informationnel humain dans la résilience et la guérison</a></strong><br>
         <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
     </td>
   </tr>
   <tr>
     <td>11h00 - 11h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many paths: Curiosity as transformative process</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">De nombreux chemins : la curiosité comme processus transformationnel</a></strong><br>
         <i>Linds Roberts</i>
     </td>
   </tr>
@@ -119,7 +119,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td>Panel</td>
     <td>12h30 - 14h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Finding sanctuary and strength in the LIS classroom</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Trouver un sanctuaire et une force en cours de BSI</a></strong><br>
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
   </tr>
@@ -130,7 +130,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=9>Présentations par affiche</td>
     <td rowspan=9>14h30 - 16h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/10.Stobbs/">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/10.Stobbs/">« Je vais simplement m'assurer que nous sommes tous sur la même longueur d'onde » : incarner l’inexistant par le discours</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
     </td>
   </tr>
@@ -165,7 +165,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/17.Mansourian/">“Hide, stay still and listen carefully”: Birdwatchers’ information seeking and sharing on YouTube</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/17.Mansourian/"> « Cachez-vous, ne bougez pas et écoutez attentivement » : la recherche et le partage d'informations des ornithologues amateur.e.s sur YouTube</a></strong><br>
         <i>Yazdan Mansourian</i>
     </td>
   </tr>

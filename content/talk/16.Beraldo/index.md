@@ -1,11 +1,11 @@
 ---
-title: "From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016"
+title: "D'une « grande attraction rivale de la taverne et du music-hall » au « seul endroit où tout le monde va » : la bibliothèque publique du Globe and Mail, 1860-2016"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Canadian public libraries espouse a set of values that may not be congruent (e.g., preserving “high” culture vs providing access to inclusive collections). Tension or conflict can result when stakeholders emphasize different values, so it is crucial to attend to values in stakeholder accounts, including those in the mass media. This poster presents a) emerging findings from a study of the representation of public libraries in The Globe and Mail since 1860; and b) reflections on the research and research communication process as an innovative experiential learning opportunity for the interdisciplinary team of faculty, graduate, and undergraduate students."
+abstract: "Les bibliothèques publiques canadiennes adoptent un ensemble de valeurs qui peuvent ne pas être cohérentes (p. ex., préserver une « haute » culture ou offrir un accès à des collections inclusives). Des tensions ou des conflits peuvent survenir lorsque les parties prenantes mettent l'accent sur des valeurs différentes, il est donc crucial de prêter attention aux valeurs dans les comptes des parties prenantes, y compris ceux des médias de masse. Cette affiche présente a) les résultats émergents d'une étude sur la représentation des bibliothèques publiques dans le Globe and Mail depuis 1860 ; et b) des réflexions sur le processus de recherche et de communication de la recherche en tant qu'opportunité d'apprentissage expérientiel novatrice pour l'équipe interdisciplinaire d'étudiants de la faculté, des cycles supérieurs et du premier cycle."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

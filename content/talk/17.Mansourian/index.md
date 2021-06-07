@@ -1,11 +1,11 @@
 ---
-title: "“Hide, stay still and listen carefully”: Birdwatchers’ information seeking and sharing on YouTube"
+title: " « Cachez-vous, ne bougez pas et écoutez attentivement » : la recherche et le partage d'informations des ornithologues amateur.e.s sur YouTube"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This paper presents early findings of an ongoing investigation about information seeking and sharing patterns among birdwatched on YouTube. The research aims to find out how they seek and share hobby-related information and to what extent publicly available multimedia resources on YouTube can satisfy their information needs. The researcher analysed 1988 comments from a sample of the most visited birdwatching videos to identify the patterns based on the user-generated contents to address the questions. The findings show birdwatching is a very information-rich context, and birdwatchers are involved in various information activities to pursue their hobbies."
+abstract: "Cet article présente les premières conclusions d'une enquête en cours sur les modèles de recherche et de partage d'informations parmi les ornithologues amateur.e.s sur YouTube. La recherche vise à découvrir comment ils recherchent et partagent des informations liées aux loisirs et dans quelle mesure les ressources multimédias accessibles au public sur YouTube peuvent répondre à leurs besoins d'information. Le chercheur a analysé 1988 commentaires d'un échantillon des vidéos d'observation ornithologique les plus visitées pour identifier les tendances à partir du contenu généré par l'utilisateur.rice pour répondre aux questions. Les résultats montrent que l'observation ornithologique est un contexte très riche en informations, et les ornithologues amateur.e.s sont impliqué.e.s dans diverses activités informationnelles pour pratiquer leurs passe-temps."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

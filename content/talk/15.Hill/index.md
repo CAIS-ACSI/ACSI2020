@@ -1,11 +1,11 @@
 ---
-title: "#LibraryLife : une analyse quantitative de l’engagement sur les médias sociaux, de leur utilisation et de leur contenu à la Bibliothèque publique de Vancouver"
+title: "Expériences du personnel de la bibliothèque publique en matière d’accommodement en milieu de travail"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Identifying as having a disability in the workplace can be a complicated proposition. This research examines public library staff experiences of accommodation for a disability within the workplace. Semi-structured interviews were conducted with Canadian public library staff who sought accommodation in their workplace. "
+abstract: "S’identifier comme ayant un handicap sur son lieu de travail peut être compliqué. Cette recherche examine les expériences du personnel des bibliothèques publiques en matière d’accommodement pour un handicap en milieu de travail. Des entrevues semi-structurées ont été menées auprès du personnel des bibliothèques publiques canadiennes qui cherchait un logement dans leur milieu de travail."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

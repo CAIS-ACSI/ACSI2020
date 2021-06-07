@@ -1,5 +1,5 @@
 ---
-title: "Annual General Meeting"
+title: "Assemblée Générale Annuelle"
 event: CAIS2021
 event_url:
 
