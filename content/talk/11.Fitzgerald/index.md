@@ -1,11 +1,11 @@
 ---
-title: "The established archives: A bibliometric overview of archival research"
+title: "Les archives établies: un survol bibliométrique de la recherche archivistique"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This research uses bibliometric methods to trace the interdisciplinary nature of archival studies and the ‘archival multiverse’ through the analysis of academic journal articles. We first analyzed the networks of archival papers included in this study and the identified communities within it. We then analyzed the most frequent words and citations for each network. This analysis provides an overview of the structure of the archival studies in recent decades, which points to a field that is slowly developing its own identity."
+abstract: "Cette recherche en cours utlise une approche bibliométrique pour explorer la structure in la multidisciplinarité du champ archivistique à l'aide des articles publiés dans les revues du domaine. Nous présentons un réseau des publications pour y repérer et décrire les communautés de recherches distinctes qui forment l'ensemble. L'analyse offre ainsi un survol de la structure de la recherche archivistique sur une période de 40 ans, mettant en lumière son émergence en tant que champ de recherche autonome."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"
