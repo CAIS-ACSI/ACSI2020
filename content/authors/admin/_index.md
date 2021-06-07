@@ -135,32 +135,32 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/11.Fitzgerald/">The established archives: A bibliometric overview of archival research</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/11.Fitzgerald/">Les archives établies: un survol bibliométrique de la recherche archivistique</a></strong><br>
         <i>Kendell Fitzgerald, Grace Bourret, Jordan Audas, Lisa Olson, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/12.Saiyera/">Assessing the loss of Western Canadian digital heritage</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/12.Saiyera/">Évaluation de la perte du patrimoine numérique de l'Ouest canadien</a></strong><br>
         <i>Tasbire Saiyera, Brenda Reyes Ayala, Qiufeng Du</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/13.VanderKooy/">A whole new world: Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/13.VanderKooy/">Un tout nouveau monde : enquête sur l'utilisation des médias sociaux par la Bibliothèque Municipale de Vancouver pour fournir des services pendant la pandémie de COVID-19</a></strong><br>
         <i>Sam Vander Kooy</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/14.Olson/">Is archival scholarship for everybody? A bibliometric analysis of gender and knowledge production in the archival field, 1981 - 2019</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/14.Olson/">La recherche archivistique est-elle pour tout le monde ? Une analyse bibliométrique du genre et de la production de connaissances dans le domaine archivistique, 1981-2019</a></strong><br>
         <i>Lisa Olson, Jordan Audas, Grace Bourret, Kendell Fitzgerald, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/15.Hill/">Public library staff experiences of accommodation in the workplace</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/15.Hill/">Expériences du personnel de la bibliothèque publique en matière d’accommodement en milieu de travail</a></strong><br>
         <i>Heather Hill</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/16.Beraldo">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860 -2016</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/16.Beraldo">D'une « grande attraction rivale de la taverne et du music-hall » au « seul endroit où tout le monde va » : la bibliothèque publique du Globe and Mail, 1860-2016</a></strong><br>
         <i>Sofia Beraldo, Chelsea Coubry-Forte, Katrina Desjardins, Erin Isings, Kate McCandless, Pam McKenzie</i>
     </td>
   </tr>
@@ -170,7 +170,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/18.Cole/">Multi-method experience sampling in information behaviour research</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/18.Cole/">Un échantillonnage d'expérience multiméthodes dans la recherche sur le comportement informationnel</a></strong><br>
         <i>Amelia W. Cole, Kelsey Urgo</i>
     </td>
   </tr>
@@ -185,25 +185,25 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=4>Bibliothèques publiques, média, et genre</td>
     <td>9h30 - 10h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife : une analyse quantitative de l’engagement sur les médias sociaux, de leur utilisation et de leur contenu à la Bibliothèque publique de Vancouver</a></strong><br>
         <i>Sam A. Vander Kooy</i>
     </td>
   </tr>
   <tr>
     <td>10h00 - 10h30</td>
-      <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Use of Twitter by a public library during the pandemic</a></strong><br>
+      <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Utilisation de Twitter par une bibliothèque publique pendant la pandémie</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
     <td>10h30 - 11h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">« Nous sommes toujours ouverts » : le cadrage par les médias canadiens des réponses liées au protocole du Covid-19 des bibliothèques publiques canadiennes</a></strong><br>
         <i>Nicole Dalmer, Meridith Griffin</i>
     </td>
   </tr>
   <tr>
     <td>11h00 - 11h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/22.Oliphant/">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/22.Oliphant/">Nommer le harcèlement sexuel perpétré par des client.e.s dans les bibliothèques</a></strong><br>
         <i>Tami Oliphant, Danielle Allard, Angela Lieu, Karla Mallach</i>
     </td>
   </tr>
@@ -214,7 +214,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td>Panel</td>
     <td>12h30 - 14h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/23.Allard/">Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/23.Allard/">Responsabilité éthique et tenue de registres à enjeux élevés : discussions du Projet sur les histoires des militant.e.s du travail du sexe</a></strong><br>
         <i>Danielle Allard, Amy Lebovitch, Jenn Clamen, Shawna Ferris, Micheline Hughes</i>
     </td>
   </tr>
@@ -225,19 +225,19 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=3>Communautées nordiques</td>
     <td>14h30 - 15h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Indigenous digital storytelling for cultural heritage access and preservation</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Narration numérique autochtone pour l'accès et la préservation du patrimoine culturel</a></strong><br>
         <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
     </td>
   </tr>
   <tr>
     <td>15h00 - 15h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">« Relations avec le Nord » : collaboration « d'une bonne manière » pour développer le cadre de métadonnées de la bibliothèque numérique des Inuvialuit</a></strong><br>
         <i>Sharon Farnel</i>
     </td>
   </tr>
   <tr>
     <td>15h30 - 16h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Decolonization and reconciliation work in public libraries: An analysis of strategic plans</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Travaux de décolonisation et de réconciliation dans les bibliothèques publiques : une analyse des plans stratégiques</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
@@ -247,13 +247,13 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=2>Politiques de l'information</td>
     <td>9h30 - 10h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">L'intersection de la recherche sur les requins, de la politique et du public : un portrait bibliométrique et altmétrique</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>10h00 - 10h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Le droit des citoyen.ne.s à la vie privée et le droit à l'accès à l'information dans les villes intelligentes : évaluation de l'initiative « ville intelligente » de l’ouest de Baltimore</a></strong><br>
         <i>Sunyup Park</i>
     </td>
   </tr>
@@ -264,19 +264,19 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=3>Communication savante</td>
     <td>11h00 - 11h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Mapping the Canadian library and information science research landscape</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Cartographie du paysage canadien de la recherche en bibliothéconomie et en sciences de l'information</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>11h30 - 12h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/30.Simard/">The burden of article processing charges on Canadian universities</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/30.Simard/">Le fardeau des frais de traitement des articles sur les universités canadiennes</a></strong><br>
         <i>Marc-André Simard, Toluwase Asubiaro, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>12h00 - 12h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/31.Thornton/">Overlay journals: Overlooked or emergent?</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/31.Thornton/">Épi-revues : négligées ou émergentes ?</a></strong><br>
         <i>Gail Thornton and Emily Kroeker</i>
     </td>
   </tr>
@@ -287,25 +287,25 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
   <tr>
     <td rowspan=4>Jeunesse et litératie informationelle</td>
     <td>13h30 - 14h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Maîtrise de l'information en Nouvelle-Écosse : cartographie systématique des résultats d'apprentissage au secondaire</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds</i>
     </td>
   </tr>
   <tr>
     <td>14h00 - 14h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">La maîtrise de l'information de l'école secondaire à l'université : rapport du « Ontario School Library Impact Project (OSLIP)</a></strong><br>
         <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
     </td>
   </tr>
   <tr>
     <td>14h30 - 15h00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/34.Julien/">Instruction from the margins: Giving voice to community college librarians</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/34.Julien/">Enseignement en marge : donner la parole aux bibliothécaires des collèges communautaires</a></strong><br>
         <i>Heidi Julien, Melissa Gross, Don Latham</i>
     </td>
   </tr>
   <tr>
     <td>15h00 - 15h30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Responsabiliser et donner des acquis aux militant.e.s adolescent.e.s dans les bibliothèques publiques : une étude de cas de l'impact de la lecture sur les actions de justice sociale des jeunes adultes</a></strong><br>
         <i>Jennifer McDevitt</i>
     </td>
   </tr>
