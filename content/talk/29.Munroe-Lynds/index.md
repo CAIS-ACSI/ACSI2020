@@ -1,11 +1,11 @@
 ---
-title: "Mapping the Canadian library and information science research landscape"
+title: "Cartographie du paysage canadien de la recherche en bibliothéconomie et en sciences de l'information"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This work-in-progress paper aims to map the scholarship produced by the eight Canadian Library and Information Science (LIS) schools. After using the citation network to divide publications into several research areas, we analyze how the research output of different LIS schools is distributed across these areas, in an attempt to shed light on the schools’ specificities and commonalities and how each school contributes to the global picture of Canadian LIS research."
+abstract: "Cette recherche en cours vise à cartographier la littérature académique produite par les huit écoles canadiennes de bibliothéconomie et de sciences de l'information (BIS). Après avoir utilisé le réseau de citations pour diviser les publications en plusieurs domaines de recherche, nous analysons comment les résultats de la recherche des différentes écoles de BIS sont répartis dans ces domaines dans le but de clarifier les spécificités et les points communs des écoles et comment chaque école contribue à l’image globale de la recherche canadienne en SIB."
 
 date: "2021-06-10T11:00:00Z"
 date_end: "2021-06-10T11:30:00Z"

@@ -1,11 +1,11 @@
 ---
-title: "Overlay journals: Overlooked or emergent?"
+title: "Épi-revues : négligées ou émergentes ?"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Overlay journals are not a new concept but have been experiencing a recent resurgence because of the increase in the number of preprint servers and the increase in the number of preprints on coronavirus disease 2019 (COVID-19) related topics. This study examines overlay journals at various stages of maturity for unique characteristics, including whether the authors submitted their article to the journal and whether the reviews of the article are published by the overlay journal. Whether they are considered overlooked or emergent, overlay journals are becoming an important contribution to scholarly communication."
+abstract: "Les épi-revues (« overlay journals ») ne sont pas un nouveau concept, mais elles ont connu une résurgence récente en raison de l'augmentation du nombre de serveurs de prépublications et de l'augmentation du nombre de prépublications sur des sujets liés au coronavirus 2019 (COVID-19). Cette étude examine les épi-revues à différents stades de maturité pour des caractéristiques uniques, y compris si les auteur.trice.s ont soumis leur article à la revue et si les critiques de l'article sont publiées par l’épi-revue. Qu'elles soient considérées comme négligées ou émergentes, les épi-revues sont devenues une partie importante de la communication scientifique."
 
 date: "2021-06-10T12:00:00Z"
 date_end: "2021-06-10T12:30:00Z"

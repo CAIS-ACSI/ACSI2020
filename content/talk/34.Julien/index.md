@@ -1,11 +1,11 @@
 ---
-title: "Instruction from the margins: Giving voice to community college librarians"
+title: "Enseignement en marge : donner la parole aux bibliothécaires des collèges communautaires"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This study explores the experiences of community college librarians in the United States with instructional responsibility, as they negotiate professional guidelines that challenge their existing practices. Community college environments, students, and programs differ significantly from those typically explored in information literacy research. Thus, the study gives voice to a relatively marginalized set of librarians, many of whom struggle to implement instructional approaches perceived to be more suitable for university contexts."
+abstract: "Cette étude explore les expériences des bibliothécaires des collèges communautaires aux États-Unis en matière de responsabilité pédagogique, alors qu'ils négocient des directives professionnelles qui remettent en question leurs pratiques existantes. Les environnements, les étudiant.e.s et les programmes des collèges communautaires diffèrent considérablement de ceux généralement explorés dans la recherche sur la maîtrise de l'information. Ainsi, l'étude donne la parole à un groupe relativement marginalisé de bibliothécaires, dont beaucoup ont du mal à mettre en œuvre des approches pédagogiques perçues comme étant plus adaptées aux contextes universitaires."
 
 date: "2021-06-10T14:30:00Z"
 date_end: "2021-06-10T15:00:00Z"

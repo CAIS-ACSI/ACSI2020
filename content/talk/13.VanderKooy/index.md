@@ -1,11 +1,11 @@
 ---
-title: "A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic"
+title: "Un tout nouveau monde : enquête sur l'utilisation des médias sociaux par la Bibliothèque Municipale de Vancouver pour fournir des services pendant la pandémie de COVID-19"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This poster will present the preliminary results of a thematic analysis of the contents of theVancouver Public Library’s (VPL) Instagram, Twitter, and YouTube feeds throughout the first wave of the COVID-19 pandemic (February 1st to June 30th, 2020) to better understand what types of crisis-related services and information they are providing to the public. This data will also be compared to Instagram, Twitter, and YouTube content from the same time period in 2019 to investigate whether the pandemic has changed VPL’s social media practices in any significant ways."
+abstract: "Cette affiche présentera les résultats préliminaires d'une analyse thématique du contenu des flux Instagram, Twitter et YouTube de la Bibliothèque Municipale de Vancouver (BMV) tout au long de la première vague de la pandémie de COVID-19 (du 1er février au 30 juin 2020) pour mieux comprendre quels types de services et d'informations liés à la crise elle fournit au public. Ces données seront également comparées aux contenus Instagram, Twitter et YouTube de la même période en 2019 pour déterminer si la pandémie a changé de manière significative les pratiques des médias sociaux de la BMV."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

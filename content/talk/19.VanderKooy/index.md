@@ -1,11 +1,11 @@
 ---
-title: "#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library"
+title: "#LibraryLife : une analyse quantitative de l’engagement sur les médias sociaux, de leur utilisation et de leur contenu à la Bibliothèque publique de Vancouver"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This paper explores the contents of the Vancouver Public Library’s Facebook, Instagram, Twitter, and YouTube feeds between September 1st and November 30th, 2020 to better understand how each social media platform is being used to communicate with stakeholders. This quantitative content analysis of each platform’s usage, content, and engagement highlights some important trends libraries should be aware of concerning both the use of multiple social media platforms and the evaluation of their current social media strategies."
+abstract: "Cet article explore le contenu des flux Facebook, Instagram, Twitter et YouTube de la Bibliothèque publique de Vancouver entre le 1er septembre et le 30 novembre 2020 afin de mieux comprendre comment chaque plateforme de médias sociaux est utilisée pour communiquer avec les parties prenantes. Cette analyse de contenu quantitative de l’engagement sur chaque plateforme, de leur utilisation et de leur contenu met en évidence certaines tendances importantes dont les bibliothèques doivent être conscientes, portant à la fois sur l'utilisation de plusieurs plateformes de médias sociaux et l'évaluation de leurs stratégies de médias sociaux actuelles."
 
 date: "2021-06-09T9:30:00Z"
 date_end: "2021-06-09T10:00:00Z"

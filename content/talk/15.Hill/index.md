@@ -1,5 +1,5 @@
 ---
-title: "Public library staff experiences of accommodation in the workplace"
+title: "#LibraryLife : une analyse quantitative de l’engagement sur les médias sociaux, de leur utilisation et de leur contenu à la Bibliothèque publique de Vancouver"
 event: CAIS2021
 event_url:
 

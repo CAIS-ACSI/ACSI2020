@@ -1,11 +1,11 @@
 ---
-title: "Indigenous digital storytelling for cultural heritage access and preservation"
+title: "Narration numérique autochtone pour l'accès et la préservation du patrimoine culturel"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This paper reports on an examination and analysis of digital storytelling interface features and functionalities within a select number of Indigenous digital libraries and archives to support and inform the participatory and culturally-informed design and development of a digital storytelling system for the Inuvialuit Settlement Region in the Western Arctic. The paper presents participatory and inclusive design ideas and examples from Canada, US, and Australia."
+abstract: "Le présent article rend compte d'un examen et d'une analyse des caractéristiques et des fonctionnalités de l'interface de narration numérique dans un certain nombre de bibliothèques et d'archives numériques autochtones afin d'appuyer et d'éclairer la conception et le développement participatifs et culturellement informés d'un système de narration numérique pour la région désignée des Inuvialuit dans l'Ouest de l'Arctique. L'article présente des idées et des exemples de conception participative et inclusive du Canada, des États-Unis et de l'Australie."
 
 date: "2021-06-09T14:30:00Z"
 date_end: "2021-06-09T15:00:00Z"

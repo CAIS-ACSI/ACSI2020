@@ -1,11 +1,11 @@
 ---
-title: "Decolonization and reconciliation work in public libraries: An analysis of strategic plans"
+title: "Travaux de décolonisation et de réconciliation dans les bibliothèques publiques : une analyse des plans stratégiques"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "The 2015 Truth and Reconciliation Commission of Canada report provides valuable guidance and critical foundation on decolonization and reconciliation in Canada. Public institutions including universities and libraries have affirmed their commitment towards reconciliation and decolonization by undertaking initiatives and establishing both short- and long-term goals. This research examines strategic plans posted on the organizational websites of nine Canadian public library systems operating in cities with significant Indigenous population. The findings suggest that different library systems made varying levels of explicit and/or implicit commitment towards reconciliation and decolonization."
+abstract: "Le rapport de 2015 de la Commission de vérité et réconciliation du Canada fournit des indications précieuses et des bases essentielles sur la décolonisation et la réconciliation au Canada. Les institutions publiques, y compris les universités et les bibliothèques, ont affirmé leur engagement en faveur de la réconciliation et de la décolonisation en prenant des initiatives et en établissant des objectifs à court et à long terme. Cette recherche examine les plans stratégiques affichés sur les sites Web organisationnels de neuf systèmes de bibliothèques publiques canadiennes fonctionnant dans des villes à forte population autochtone. Les résultats suggèrent que différents systèmes de bibliothèques se sont impliqués à divers niveaux d'engagement explicite et/ou implicite en faveur de la réconciliation et de la décolonisation."
 
 date: "2021-06-09T15:30:00Z"
 date_end: "2021-06-09T16:00:00Z"

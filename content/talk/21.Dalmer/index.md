@@ -1,11 +1,11 @@
 ---
-title: "“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses"
+title: "« Nous sommes toujours ouverts » : le cadrage par les médias canadiens des réponses liées au protocole du Covid-19 des bibliothèques publiques canadiennes"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "COVID-19 is persistently transforming how and where public libraries are able to engage with and support their communities. While existing research at the juncture of public library services and COVID-19 has overwhelmingly examined library-produced content, this study shifts focus to media representations of library practices during COVID-19. Using frame analysis methodology, this study analyzed 218 Canadian news articles for the ways in which news stories articulate public libraries’ roles and resources during the COVID-19 pandemic. Three frames emerged: (re)negotiating the library’s space, (re)configuring the library’s roles, and (re)constructing “others”. Conclusions explore the implications of these frames, linked to a broader conversation regarding transformations to public spaces during COVID-19."
+abstract: "Le COVID-19 transforme constamment le « comment » et le « où » les bibliothèques publiques peuvent soutenir leurs communautés et interagir avec elles. Alors que la recherche existante au confluent des services de bibliothèque publique et du COVID-19 a examiné de manière très approfondie le contenu produit par les bibliothèques, cette étude se concentre sur les représentations médiatiques des pratiques des bibliothèques pendant le COVID-19. À l'aide de la méthodologie d'analyse des cadres, cette étude a analysé 218 articles de presse canadiens pour découvrir la manière dont les reportages articulent les rôles et les ressources des bibliothèques publiques pendant la pandémie de la COVID-19. Trois cadres ont émergé : (re)négocier l'espace de la bibliothèque, (re)configurer les rôles de la bibliothèque et (re)construire les « autres ». Les conclusions explorent les implications de ces cadres, liées à une conversation plus large concernant les transformations des espaces publics pendant le COVID-19."
 
 date: "2021-06-09T10:30:00Z"
 date_end: "2021-06-09T11:00:00Z"

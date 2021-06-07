@@ -1,11 +1,11 @@
 ---
-title: "Naming patron-perpetrated sexual harassment in libraries"
+title: "Nommer le harcèlement sexuel perpétré par des client.e.s dans les bibliothèques"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Patron-perpetrated sexual harassment (PPSH) is increasingly recognized as a significant problem in the field of library and information studies (LIS) but is often described and treated as “unfortunate” and “part of the job.” The results from a large-scale survey (505 responses) where participants described incidents of PPSH in the workplace support widely held public statements  that define PPSH as a form of gender-based violence (GBV), insisting that it must be named and treated as such. Naming PPSH as sexual harassment and a form of GBV has important implications for library workers, library workplaces, and the broader field of LIS."
+abstract: "Le harcèlement sexuel sur lieu de travail par les client.e.s (« Patron-perpetrated sexual harassment », PPSH) est de plus en plus reconnu comme un problème important dans le domaine des bibliothèques et des sciences de l’information (BIS), mais il est souvent décrit et traité comme « malheureux » et « faisant partie du travail ». Les résultats d'une enquête à grande échelle (505 réponses) où les participant.e.s ont décrit des incidents de PPSH sur le lieu de travail appuient les déclarations publiques largement répandues qui définissent le PPSH comme une forme de violence sexiste (« gender-based violence », GBV), insistant sur le fait qu'elle doit être nommée et traitée comme telle. Nommer le PPSH comme étant du harcèlement sexuel et une forme de GBV a des implications importantes pour les employé.e.s des bibliothèques, les lieux de travail des bibliothèques et le domaine plus large des BIS."
 
 date: "2021-06-09T11:00:00Z"
 date_end: "2021-06-09T11:30:00Z"
