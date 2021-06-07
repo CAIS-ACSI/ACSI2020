@@ -1,11 +1,11 @@
 ---
-title: "Many paths: Curiosity as transformative process"
+title: "De nombreux chemins : la curiosité comme processus transformationnel"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Curiosity is seen as an integral part of information-seeking, including the power to transform, innovate, and synthesize, as well as the power to disrupt. While there is consensus that curiosity is vital to learning, innovation, and transformative change, scientists have yet to agree on definitions or categories of curiosity, and little is known about how best to engage learners’ curiosity in academic libraries. This paper presents interview findings with 41 transfer students. Students reflected on their experiences with libraries and on moments when they felt intensely curious or passionate about learning. Findings indicate that students’ curiosity ignites through ideas, hands-on learning, interpersonal, and lived experiences. Implications follow for library workers to consider how curiosity is framed within their institutions and intentionally cultivate learners’ curiosity."
+abstract: "La curiosité est considérée comme faisant partie intégrante de la recherche d'informations, y compris le pouvoir de transformer, d'innover et de synthétiser, ainsi que le pouvoir de perturber. Bien qu'il existe un consensus sur le fait que la curiosité est vitale pour l'apprentissage, l'innovation et le changement transformateur, les définitions ou les catégories de curiosité ne font pas consensus dans la communauté scientifique, on n’en sait peu sur la meilleure façon de stimuler la curiosité des apprenant.e.s dans les bibliothèques universitaires. Cet article présente les résultats des entretiens avec 41 étudiant.e.s venus d'une autre université. Les étudiant.e.s ont réfléchi sur leurs expériences avec les bibliothèques et sur les moments où ils se sentaient extrêmement curieux.ses ou passionné.e.s par l'apprentissage. Les résultats indiquent que la curiosité des étudiant.e.s est intensément déclenchée par des idées, un apprentissage pratique, des expériences interpersonnelles et vécues. Il s'ensuit que les employé.e.s de bibliothèque considèrent comment la curiosité est encadrée dans leurs institutions et cultivent intentionnellement la curiosité des apprenant.e.s. "
 
 date: "2021-06-08T11:00:00Z"
 date_end: "2021-06-08T11:30:00Z"

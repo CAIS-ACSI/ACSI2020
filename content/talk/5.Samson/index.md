@@ -1,11 +1,11 @@
 ---
-title: "Contemplative inquiry: A novel research methodology for information science"
+title: "Enquête contemplative : une nouvelle méthodologie de recherche pour les sciences de l'information"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "Contemplative inquiry is an introspective methodology that values first-person perspectives and diverse ways of knowing. This paper introduces contemplative inquiry as a promising methodology for information science research. The methodology is first contextualized within a discussion of research at the crossroads of information and contemplation and then elaborated utilizing examples from the author’s thesis research. Possible contributions of the methodology to information science are subsequently highlighted, as are potential future research applications. It is proposed that adoption of the methodology will offer information science researchers the techniques and tools necessary to explore fundamental questions regarding human contemplative experiences and growth."
+abstract: "L'enquête contemplative est une méthodologie introspective qui valorise les perspectives à la première personne ainsi que les divers modes de connaissances. Cet article présente l'enquête contemplative comme une méthodologie prometteuse pour la recherche en sciences de l'information. La méthodologie est d'abord contextualisée dans une discussion de recherche au carrefour de l'information et de la contemplation, puis élaborée à l'aide d'exemples issus de la thèse de recherche de l'auteur. Les contributions possibles de la méthodologie aux sciences de l’information sont ensuite mises en évidence, tout comme les futures applications de recherche potentielles. Il est proposé que l'adoption de la méthodologie offrira aux chercheur.e.s en sciences de l'information les techniques et les outils nécessaires pour explorer les questions fondamentales concernant les expériences contemplatives humaines et la croissance personnelle."
 
 date: "2021-06-08T09:30:00Z"
 date_end: "2021-06-08T10:00:00Z"

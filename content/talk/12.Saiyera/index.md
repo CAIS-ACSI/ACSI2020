@@ -1,11 +1,11 @@
 ---
-title: "Assessing the loss of Western Canadian digital heritage"
+title: "Évaluation de la perte du patrimoine numérique de l'Ouest canadien"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "In 2003, UNESCO recognized the volatility of our heritage on the web. In response, many Canadian institutions rose to the challenge to preserve our digital heritage. This study examines web archives created by the University of Alberta Libraries relevant to Western Canadian heritage. We examine these collections in order to (1) assess their degree of link rot (which occurs when a website is no longer online) and (2) to determine how extensively these websites have been preserved."
+abstract: "En 2003, l'UNESCO a reconnu la volatilité de notre patrimoine sur le Web. En réponse, de nombreuses institutions canadiennes ont relevé le défi de préserver notre patrimoine numérique. Cette étude examine les archives Web créées par les bibliothèques de l'Université de l'Alberta concernant le patrimoine de l'Ouest canadien. Nous examinons ces collections afin (1) d'évaluer le nombre de liens rompus (qui se produit lorsqu'un site Web n'est plus en ligne) et (2) de déterminer dans quelle mesure ces sites Web ont été préservés."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

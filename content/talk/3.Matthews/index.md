@@ -1,11 +1,11 @@
 ---
-title: "Reading the silence: Canadian library responses to racial injustice"
+title: "Lire le silence : réponses des bibliothèques canadiennes à l'injustice raciale"
 event: CAIS2021
 event_url: 
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This paper presents the findings of a research study on the statements issued by the Canadian library community in the wake of George Floyd’s death in May 2020. The study employed mixed-methods content analysis to (a) identify formal responses between May to August 2020; (b) analyze themes; and, (c) identify commitments for future accountability and research. Ninety-seven organizations were in the study and represent large public and academic libraries along with provincial, national, and professional associations. The results show that one third of the sampled Canadian library community formally responded with an organizational statement and fewer situated their organizations as contributors to systemic racism in Canadian society"
+abstract: "Cet article présente les résultats d'une étude sur les déclarations émises par la communauté des bibliothèques canadiennes à la suite de la mort de George Floyd en mai 2020. Cette étude est basée sur une analyse de contenu à méthodes mixtes pour (a) identifier les réponses formelles entre mai et août 2020; (b) analyser les thèmes; et (c) identifier les engagements en matière de responsabilisation et de recherche futures. Quatre-vingt-dix-sept organisations, représentant de grandes bibliothèques publiques et universitaires ainsi que des associations provinciales, nationales et professionnelles, participaient à l'étude. Les résultats démontrent qu'un tiers de la communauté des bibliothèques canadiennes échantillonnée a officiellement répondu par une déclaration organisationnelle et qu’un plus petit nombre a qualifié leur organisation de contributrice au racisme systémique dans la société canadienne."
 
 date: "2021-06-07T15:00:00Z"
 date_end: "2021-06-07T15:30:00Z"

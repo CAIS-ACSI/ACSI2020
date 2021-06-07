@@ -1,11 +1,11 @@
 ---
-title: "“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being"
+title: "« Je vais simplement m'assurer que nous sommes tous sur la même longueur d'onde » : incarner l’inexistant par le discours"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This poster will present emerging results from a study of material and discursive information practices in tabletop roleplaying games. The focus will be on the ways in which players collaboratively construct and interact with the fictional worlds of play. A “big and small story” approach, influenced by the ethnomethodological methods of conversation analysis and membership categorization analysis, will be used to analyze the players’ talk as they intersubjectively create and sustain a fictional space of play."
+abstract: "Cette affiche présentera les résultats émergents d'une étude des pratiques d'information matérielle et discursive dans les jeux de rôle sur table. L'accent sera mis sur la manière dont les joueur.euse.s construisent en collaboration et interagissent avec les mondes de jeux fictifs. Une approche « grande et petite histoire », influencée par une approche ethnométhodologique d'analyse de conversation et d'analyse de catégorisation des membres, sera utilisée pour analyser le discours des joueur.euse.s alors qu'ils ou elles créent et entretiennent de manière intersubjective un espace de jeu fictif."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"

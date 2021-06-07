@@ -1,11 +1,11 @@
 ---
-title: "Finding sanctuary and strength in the LIS classroom"
+title: "Trouver un sanctuaire et une force en cours de BSI"
 event: CAIS2021
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "In the spirit of contemplative pedagogy, this panel introduces “The Tree of Contemplative Practices”—a graphic representation that helps educators and students to understand the main principles and seven major types of contemplative practices. Using the Tree as a framework, enthusiasts can learn contemplative practices in a systematic, secular, and bespoke manner. Sequentially, the moderator and presenters will: 1) Encapsulate their commitment to contemplative pedagogy; 2) Recount an application of The Tree of Contemplative Practices in their teaching; and 3) Demonstrate several of the Tree’s major limbs (e.g., GENERATIVE) and branches (e.g., loving-kindness meditation)."
+abstract: "Dans l’esprit de la pédagogie contemplative, ce panneau présente « L'Arbre des Pratiques Contemplatives » - une représentation graphique qui aide les professeur.e.s et les étudiant.e.s à comprendre les grands principes et sept grands types de pratiques contemplatives. En utilisant l'Arbre comme cadre de base, les amateurs peuvent apprendre des pratiques contemplatives de manière systématique, laïque et personnalisée. Séquentiellement, la modératrice et les présentateur.trice.s : 1) résumeront leur engagement envers la pédagogie contemplative ; 2) discuterons d’une application de l'Arbre des Pratiques Contemplatives dans leur enseignement ; et 3) montreront le fonctionnement de plusieurs grandes branches (p. ex., CREATIF) et branches secondaires (p. ex., méditation de bienveillance) de l'Arbre."
 
 date: "2021-06-08T12:30:00Z"
 date_end: "2021-06-08T14:00:00Z"
