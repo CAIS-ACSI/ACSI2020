@@ -1,11 +1,11 @@
 ---
-title: "A bibliometric analysis of race-related research in LIS"
+title: "Une analyse bibliométrique de la recherche liée à la race en bibliothéconomie et sciences de l'information (BSI)"
 event: CAIS2021
 event_url: 
 
 location: https://zoom.us/j/96815079086
 
-abstract: The purpose of this work in progress is to quantify the amount of attention given to questions of racial inequity experienced by BIPOC in LIS research. We find that despite a recent surge in BIPOC-related research output, the publications are low in numbers and tend to receive fewer citations than other work in the same research area. BIPOC-related research is present but unevenly distributed across several areas of the field. These trends may help create and sustain momentum towards addressing the persistent lack of diversity and equity in LIS."
+abstract: "L'objectif de ces travaux de recherche en cours est de quantifier l'attention portée aux questions d'inégalité raciale vécues par les personnes autochtones, noires et de couleur (PANDC) dans la recherche en BSI. Nous constatons qu'en dépit d'une récente hausse des résultats de recherche liés aux PANDC, les publications sont peu nombreuses et ont tendance à recevoir moins de citations que d'autres travaux dans le même domaine de recherche. La recherche liée aux PANDC est présente, mais inégalement répartie dans plusieurs secteurs du domaine. Ces tendances peuvent aider à créer et à maintenir la dynamique pour remédier au manque persistant de diversité et d'équité dans le domaine de la BSI."
 
 date: "2021-06-07T14:30:00Z"
 date_end: "2021-06-07T15:00:00Z"
@@ -20,6 +20,10 @@ authors:
 - Ratna Dhaliwal
 - Jessalyn Hill
 - Amber Matthews
+
+links:
+ - name: PDF
+   url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1224/1026
 
 
 featured: false
