@@ -38,7 +38,7 @@ Nous sommes ravis d'accueillir Dr. Beth Patin pour la conférence d'ouverture. D
 
 <center>Lien Zoom pour l'ensemble des séances: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
 <center>Veuillez noter que les temps affichés sont en <strong>heure avancée des Rocheuses (HAR)</strong></center>
-<center>Please make sure to use your real name when joining the Zoom call to ensure that the moderators let you in. If you have problems accessing the meeting, please <a href="#contact">acontact us</a>.</center>
+<center>Veuillez utiliser votre nom lorsque vous rejoingez la recontre sur Zoom. Si vous éprouvez des difficultés, veuillez <a href="#contact">nous contacter</a>.</center>
 <center>Veuillez également noter que toutes les présentations au programme sont en anglais.</center>
 <center>Une version PDF du programme est disponible <a href="cais2021_program_and_schedule.pdf">ici</a>.</center>
 <table style="width:100%">
