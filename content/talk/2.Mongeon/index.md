@@ -22,12 +22,15 @@ authors:
 - Amber Matthews
 
 links:
- - name: PDF
+- name: PDF
    url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1219/1055
-
+- name: Video
+  url: https://youtu.be/vREK3iJzJGo
 
 featured: false
 
 
 math: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vREK3iJzJGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
